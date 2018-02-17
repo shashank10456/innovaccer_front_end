@@ -1,6 +1,4 @@
 clone or download from github
-
-open expenditure_django_and html_js_files folder
 then open djangorest folder
 
 there should be a manage.py file.
